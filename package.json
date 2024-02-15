@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "resemblejs": "^5.0.0",
+    "selenium-webdriver": "^4.17.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
